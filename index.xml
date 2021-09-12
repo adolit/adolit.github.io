@@ -7,15 +7,18 @@
     <description>Financial Technology &amp; Data Analytics Blog
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Sep 2021 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Welcome to Financial Technology &amp;amp; Data Analytics Blog</title>
-      <dc:creator>Nora Jones</dc:creator>
-      <link>https://adolit.github.io/posts/welcome</link>
-      <description>Welcome to our new blog, Financial Technology &amp;amp; Data Analytics Blog. We hope you enjoy 
-reading what we have to say!</description>
-      <guid>https://adolit.github.io/posts/welcome</guid>
-      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      <title>Adara Challenge Analysis</title>
+      <dc:creator>Archie Dolit</dc:creator>
+      <link>https://adolit.github.io/posts/2021-09-11-adara-challenge-analysis</link>
+      <description>Technical Analytical Assessment for Field Data Science team</description>
+      <category>R</category>
+      <category>Adara</category>
+      <category>Analytical Assessment</category>
+      <guid>https://adolit.github.io/posts/2021-09-11-adara-challenge-analysis</guid>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://adolit.github.io/posts/2021-09-11-adara-challenge-analysis/img/preview_image.png" medium="image" type="image/png" width="1792" height="1098"/>
     </item>
   </channel>
 </rss>
