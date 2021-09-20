@@ -20,5 +20,178 @@
       <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
       <media:content url="https://adolit.github.io/posts/2021-09-11-adara-challenge-analysis/img/preview_image.png" medium="image" type="image/png" width="800" height="494"/>
     </item>
+    <item>
+      <title>V-ASK: Visual Analytics of Spending and Kinematics</title>
+      <dc:creator>Archie Dolit, Syiqah Taha, Kevin Sunga</dc:creator>
+      <link>https://adolit.github.io/posts/2021-08-15-v-ask-paper</link>
+      <description>An application to explore and identify anomalies and suspicious activities. View the R Shiny App using this [link](https://adolit.shinyapps.io/v-ask/)</description>
+      <category>RShiny</category>
+      <category>Research Paper</category>
+      <category>Group Project</category>
+      <guid>https://adolit.github.io/posts/2021-08-15-v-ask-paper</guid>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://adolit.github.io/posts/2021-08-15-v-ask-paper/img/overview.png" medium="image" type="image/png" width="3014" height="1119"/>
+    </item>
+    <item>
+      <title>V-ASK User Guide</title>
+      <dc:creator>Archie Dolit, Syiqah Taha, Kevin Sunga</dc:creator>
+      <link>https://adolit.github.io/posts/2021-08-15-v-ask-guide</link>
+      <description>A step-by-step guide on how to use V-ASK App.</description>
+      <category>RShiny</category>
+      <category>User Guide</category>
+      <category>Group Project</category>
+      <guid>https://adolit.github.io/posts/2021-08-15-v-ask-guide</guid>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://adolit.github.io/posts/2021-08-15-v-ask-guide/img/3.2.3.png" medium="image" type="image/png" width="1150" height="679"/>
+    </item>
+    <item>
+      <title>Visual Detective Assignment</title>
+      <dc:creator>Archie Dolit</dc:creator>
+      <link>https://adolit.github.io/posts/2021-07-18-assignment</link>
+      <description>This assignment attempts to solve the 2021 IEEE Visual Analytics Science and Technology (VAST) Challenge: Mini-Challenge 2 by applying different visual analytics concepts, methods, and techniques with relevant R data visualisation and data analysis packages.</description>
+      <category>Visual Detective</category>
+      <category>R</category>
+      <category>Assignment</category>
+      <guid>https://adolit.github.io/posts/2021-07-18-assignment</guid>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://adolit.github.io/posts/2021-07-18-assignment/img/preview_image.png" medium="image" type="image/png" width="1792" height="1098"/>
+    </item>
+    <item>
+      <title>Visual Detective Assignment Part 2</title>
+      <dc:creator>Archie Dolit</dc:creator>
+      <link>https://adolit.github.io/posts/2021-07-26-assignment-2</link>
+      <description>This assignment attempts to solve the 2021 IEEE Visual Analytics Science and Technology (VAST) Challenge: Mini-Challenge 2 by applying different visual analytics concepts, methods, and techniques with relevant R data visualisation and data analysis packages.</description>
+      <category>Visual Detective</category>
+      <category>R</category>
+      <category>Assignment</category>
+      <guid>https://adolit.github.io/posts/2021-07-26-assignment-2</guid>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://adolit.github.io/posts/2021-07-26-assignment-2/img/preview_image.png" medium="image" type="image/png" width="1792" height="1098"/>
+    </item>
+    <item>
+      <title>Visual Detective Assignment Part 3</title>
+      <dc:creator>Archie Dolit</dc:creator>
+      <link>https://adolit.github.io/posts/2021-07-26-assignment-3</link>
+      <description>This assignment attempts to solve the 2021 IEEE Visual Analytics Science and Technology (VAST) Challenge: Mini-Challenge 2 by applying different visual analytics concepts, methods, and techniques with relevant R data visualisation and data analysis packages.</description>
+      <category>Visual Detective</category>
+      <category>R</category>
+      <category>Assignment</category>
+      <guid>https://adolit.github.io/posts/2021-07-26-assignment-3</guid>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://adolit.github.io/posts/2021-07-26-assignment-3/img/preview_image.png" medium="image" type="image/png" width="1792" height="1098"/>
+    </item>
+    <item>
+      <title>Visual Detective Assignment Part 4</title>
+      <dc:creator>Archie Dolit</dc:creator>
+      <link>https://adolit.github.io/posts/2021-07-26-assignment-4</link>
+      <description>This assignment attempts to solve the 2021 IEEE Visual Analytics Science and Technology (VAST) Challenge: Mini-Challenge 2 by applying different visual analytics concepts, methods, and techniques with relevant R data visualisation and data analysis packages.</description>
+      <category>Visual Detective</category>
+      <category>R</category>
+      <category>Assignment</category>
+      <guid>https://adolit.github.io/posts/2021-07-26-assignment-4</guid>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://adolit.github.io/posts/2021-07-26-assignment-4/img/preview_image.png" medium="image" type="image/png" width="1792" height="1098"/>
+    </item>
+    <item>
+      <title>Visual Detective Assignment Part 5</title>
+      <dc:creator>Archie Dolit</dc:creator>
+      <link>https://adolit.github.io/posts/2021-07-26-assignment-5</link>
+      <description>This assignment attempts to solve the 2021 IEEE Visual Analytics Science and Technology (VAST) Challenge: Mini-Challenge 2 by applying different visual analytics concepts, methods, and techniques with relevant R data visualisation and data analysis packages.</description>
+      <category>Visual Detective</category>
+      <category>R</category>
+      <category>Assignment</category>
+      <guid>https://adolit.github.io/posts/2021-07-26-assignment-5</guid>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://adolit.github.io/posts/2021-07-26-assignment-5/img/preview_image.png" medium="image" type="image/png" width="1792" height="1098"/>
+    </item>
+    <item>
+      <title>Getting to Know Shiny</title>
+      <dc:creator>Archie Dolit</dc:creator>
+      <link>https://adolit.github.io/posts/2021-07-17-know-shiny</link>
+      <description>This in-class exercise introduces Shiny as an example of web-enabled visual analytics application.</description>
+      <category>RShiny</category>
+      <category>R</category>
+      <category>In-class Exercise</category>
+      <guid>https://adolit.github.io/posts/2021-07-17-know-shiny</guid>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://adolit.github.io/posts/2021-07-17-know-shiny/preview_image.png" medium="image" type="image/png" width="1900" height="934"/>
+    </item>
+    <item>
+      <title>Text Visual Analytics with R</title>
+      <dc:creator>Archie Dolit</dc:creator>
+      <link>https://adolit.github.io/posts/2021-07-11-text-vis-r</link>
+      <description>This in-class exercise explores the concepts and methods of Text Visualisation. It visualises and analyses the text data from a collection of 20 newsgroups. It introduces the tidytext framework for processing, wrangling, analysing and visualising text data using tidytext, tidyverse, widyr, wordcloud, ggwordcloud, textplot, DT, lubridate, and hms packages.</description>
+      <category>Text Visualisation</category>
+      <category>R</category>
+      <category>In-class Exercise</category>
+      <guid>https://adolit.github.io/posts/2021-07-11-text-vis-r</guid>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://adolit.github.io/posts/2021-07-11-text-vis-r/preview_image.png" medium="image" type="image/png" width="1872" height="1152"/>
+    </item>
+    <item>
+      <title>Network Data Visualisation and Analysis with R</title>
+      <dc:creator>Archie Dolit</dc:creator>
+      <link>https://adolit.github.io/posts/2021-07-10-network-datavis-r</link>
+      <description>This in-class exercise explores Network Data Visualisation and Analysis. It visualises the GASTech emails from VAST Challenge 2021: [Mini-Challenge 1](https://vast-challenge.github.io/2021/MC1.html) using dplyr, lubridate, tidygraph, ggraph, and VisNetwork packages. Additionally, the cc_data.csv from VAST Challenge 2021: [Mini-Challenge 2](https://vast-challenge.github.io/2021/MC2.html) was used to create Bipartitle Network.</description>
+      <category>Network Data</category>
+      <category>R</category>
+      <category>In-class Exercise</category>
+      <guid>https://adolit.github.io/posts/2021-07-10-network-datavis-r</guid>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://adolit.github.io/posts/2021-07-10-network-datavis-r/preview_image.png" medium="image" type="image/png" width="1872" height="1152"/>
+    </item>
+    <item>
+      <title>Programming GeoVisual Analytics with R</title>
+      <dc:creator>Archie Dolit</dc:creator>
+      <link>https://adolit.github.io/posts/2021-07-03-programming-geovis-r</link>
+      <description>This in-class exercise explores Analysis of Spatial Data. Specifically, it visualises the movement data from VAST Challenge 2021: [Mini-Challenge 2](https://vast-challenge.github.io/2021/MC2.html) using sf, raster, readr, clock and tmap packages.</description>
+      <category>GeoSpatial</category>
+      <category>R</category>
+      <category>In-class Exercise</category>
+      <guid>https://adolit.github.io/posts/2021-07-03-programming-geovis-r</guid>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://adolit.github.io/posts/2021-07-03-programming-geovis-r/preview_image.png" medium="image" type="image/png" width="1872" height="1152"/>
+    </item>
+    <item>
+      <title>Programming Data Visualisation in R</title>
+      <dc:creator>Archie Dolit</dc:creator>
+      <link>https://adolit.github.io/posts/2021-06-26-programming-datavis-r</link>
+      <description>This in-class exercise explores programming data visualisation in R. It introduces the "Grammar of Graphics", ggplot2 for static graphics, ggiraph and plotly for interactive graphics, and tidyverse for the data science workflow.</description>
+      <category>Static Visualisation</category>
+      <category>Interactive Visualisation</category>
+      <category>R</category>
+      <category>In-class Exercise</category>
+      <guid>https://adolit.github.io/posts/2021-06-26-programming-datavis-r</guid>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://adolit.github.io/posts/2021-06-26-programming-datavis-r/preview_image.png" medium="image" type="image/png" width="1872" height="1152"/>
+    </item>
+    <item>
+      <title>DataViz Makeover 02 </title>
+      <dc:creator>Archie Dolit</dc:creator>
+      <link>https://adolit.github.io/posts/2021-06-20-dataviz-makeover-02</link>
+      <description>The task for this makeover is to design and implement  **interactive visualisation** for the infographics by Department of Statistics, Singapore (DOS). The details can be found [here](https://isss608.netlify.app/dataviz/dataviz2).
+
+The proposed data visualisation is available on Tableau Public through this [link](https://public.tableau.com/app/profile/adolit/viz/DataViz_Makeover02/SGTradeDashboard).</description>
+      <category>Interactive Visualisation</category>
+      <category>Tableau</category>
+      <category>DataViz Makeover</category>
+      <guid>https://adolit.github.io/posts/2021-06-20-dataviz-makeover-02</guid>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://adolit.github.io/posts/2021-06-20-dataviz-makeover-02/img/03_dashboard.png" medium="image" type="image/png" width="2349" height="1264"/>
+    </item>
+    <item>
+      <title>DataViz Makeover 01</title>
+      <dc:creator>Archie Dolit</dc:creator>
+      <link>https://adolit.github.io/posts/2021-05-30-dataviz-makeover-01</link>
+      <description>The task for this makeover is to design and implement **static visualisation** for the Merchandise Trade by Region/Market data provided by Department of Statistics, Singapore (DOS). The details can be found [here](https://isss608.netlify.app/dataviz/dataviz1).
+
+The proposed data visualisation is available on Tableau Public through this [link](https://public.tableau.com/app/profile/adolit/viz/DataViz_Makeover01/Dashboard).</description>
+      <category>Static Visualisation</category>
+      <category>Tableau</category>
+      <category>DataViz Makeover</category>
+      <guid>https://adolit.github.io/posts/2021-05-30-dataviz-makeover-01</guid>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://adolit.github.io/posts/2021-05-30-dataviz-makeover-01/img/03_dashboard.png" medium="image" type="image/png" width="1169" height="827"/>
+    </item>
   </channel>
 </rss>
