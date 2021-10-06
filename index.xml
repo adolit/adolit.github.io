@@ -21,6 +21,18 @@
       <media:content url="https://adolit.github.io/posts/2021-09-11-adara-challenge-analysis/img/preview_image.png" medium="image" type="image/png" width="800" height="494"/>
     </item>
     <item>
+      <title>V-ASK User Guide</title>
+      <dc:creator>Archie Dolit, Syiqah Taha, Kevin Sunga</dc:creator>
+      <link>https://adolit.github.io/posts/2021-08-15-v-ask-guide</link>
+      <description>A step-by-step guide on how to use V-ASK App.</description>
+      <category>RShiny</category>
+      <category>User Guide</category>
+      <category>Group Project</category>
+      <guid>https://adolit.github.io/posts/2021-08-15-v-ask-guide</guid>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://adolit.github.io/posts/2021-08-15-v-ask-guide/img/3.2.3.png" medium="image" type="image/png" width="1150" height="679"/>
+    </item>
+    <item>
       <title>V-ASK: Visual Analytics of Spending and Kinematics</title>
       <dc:creator>Archie Dolit, Syiqah Taha, Kevin Sunga</dc:creator>
       <link>https://adolit.github.io/posts/2021-08-15-v-ask-paper</link>
@@ -31,18 +43,6 @@
       <guid>https://adolit.github.io/posts/2021-08-15-v-ask-paper</guid>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       <media:content url="https://adolit.github.io/posts/2021-08-15-v-ask-paper/img/overview.png" medium="image" type="image/png" width="3014" height="1119"/>
-    </item>
-    <item>
-      <title>V-ASK User Guide</title>
-      <dc:creator>Archie Dolit, Syiqah Taha, Kevin Sunga</dc:creator>
-      <link>https://adolit.github.io/posts/2021-08-15-v-ask-guide</link>
-      <description>A step-by-step guide on how to use V-ASK App.</description>
-      <category>RShiny</category>
-      <category>User Guide</category>
-      <category>Group Project</category>
-      <guid>https://adolit.github.io/posts/2021-08-15-v-ask-guide</guid>
-      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
-      <media:content url="https://adolit.github.io/posts/2021-08-15-v-ask-guide/img/3.2.3.png" medium="image" type="image/png" width="1150" height="679"/>
     </item>
     <item>
       <title>Visual Detective Assignment</title>
