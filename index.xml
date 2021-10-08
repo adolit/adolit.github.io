@@ -7,7 +7,19 @@
     <description>Financial Technology &amp; Data Analytics Blog
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Sat, 11 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>BYOI DCI KYC</title>
+      <dc:creator>Archie Dolit</dc:creator>
+      <link>https://adolit.github.io/posts/2021-10-08-byoi-dci-kyc</link>
+      <description>Validated Bring Your Own Identity Blockchain Solution for Customer Onboarding</description>
+      <category>Blockchain</category>
+      <category>Corporate Banking</category>
+      <category>Assignment</category>
+      <guid>https://adolit.github.io/posts/2021-10-08-byoi-dci-kyc</guid>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://adolit.github.io/posts/2021-10-08-byoi-dci-kyc/img/dci-network.png" medium="image" type="image/png" width="1181" height="634"/>
+    </item>
     <item>
       <title>Adara Challenge Analysis</title>
       <dc:creator>Archie Dolit</dc:creator>
